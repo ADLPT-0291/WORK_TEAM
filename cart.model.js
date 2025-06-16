@@ -1,1 +1,1 @@
-console.log("xin chao");
+console.log("áđâsd");
